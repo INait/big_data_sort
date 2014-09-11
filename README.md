@@ -5,7 +5,7 @@
 Для компиляции debug версии используйте make debug.
 
 Запуск программы:
-./<program_name> <file_name> [num_threads]
+./{{program_name}} {{file_name}} [num_threads]
 
 program_name - имя исполняемого файла (file_sort по умолчанию).
 file_name    - имя файла, который необходимо отсортировать.
